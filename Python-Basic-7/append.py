@@ -3,5 +3,3 @@
 # f.write("\nthen i will learn fastapi")
 
 # f.close()
-f=open("sample.txt","a")
-f.close()
